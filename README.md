@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 **Languages and Tools**
 
 **Ruby on Rails**
-![Ruby On Rails](./download.png)
+<img src="download.png" alt="Ruby On Rails" width=50 height=50></img>
 
 **Python**
 ![Python](./Python-logo-notext.svg.png)
