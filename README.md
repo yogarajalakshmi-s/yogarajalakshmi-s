@@ -8,10 +8,10 @@ Here are some ideas to get you started:
 **Languages and Tools**
 
 **Ruby on Rails**
-<img src="download.png" alt="Ruby On Rails" width=50 height=50></img>
+<img src="https://miro.medium.com/v2/resize:fit:450/1*MtuURq-9Fe3MZM5IZqQgyw.png" alt="Ruby On Rails" height=50></img>
 
 **Python**
-![Python](./Python-logo-notext.svg.png)
+
 
 **MySql**
-![MySql](./communityIcon_dhjr6guc03x51.png)
+
