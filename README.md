@@ -17,7 +17,7 @@
 </p>
 
 <p float="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="200" alt="Python"/>
-  <img src="https://miro.medium.com/v2/resize:fit:450/1*MtuURq-9Fe3MZM5IZqQgyw.png" width="200" alt="Ruby On Rails" /> 
-  <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" width="200" alt="MySQL" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="100" alt="Python"/>
+  <img src="https://miro.medium.com/v2/resize:fit:450/1*MtuURq-9Fe3MZM5IZqQgyw.png" width="100" alt="Ruby On Rails" /> 
+  <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" width="100" alt="MySQL" />
 </p>
