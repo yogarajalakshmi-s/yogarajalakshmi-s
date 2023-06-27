@@ -1,23 +1,25 @@
 ### Hi there, I'm Yoga 👋
-
-- I'm a RoR programmer, avid book reader and a linguaphile
-- 🌱 I’m currently learning Python and would like to be a web developer, trying to explore new modules and learn data structures.
+<hr>
+<p align="center">I'm a Python and RoR programmer, avid book reader and a linguaphile</p>
+<p align="center">🌱 I’m passionate about Python and would like to be a web developer, trying to explore new modules and learn data structures and work on new exciting projects.</p>
+<hr>
+<p align="left"><img src="https://komarev.com/ghpvc/?yoga-0731"></p>
+<p align="left"><a href="https://stackoverflow.com/users/20330166/startrek-07"><img src="https://stackoverflow.com/users/flair/20330166.png?theme=dark" width="208" height="58" alt="profile for startrek-07 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for startrek-07 at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a></p>
 
 **Languages and Tools**
-
-<p float="left">
-  <h5>Ruby on Rail</h5>
-  <img src="https://miro.medium.com/v2/resize:fit:450/1*MtuURq-9Fe3MZM5IZqQgyw.png" alt="Ruby On Rails" height=25 />
-  
-  <h5>Python</h5>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height=25 alt="Python" />
-  
-  <h5>MySql</h5>
-  <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" height=25 alt="MySQL" />
+<p align="left"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/></a>
+  <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:450/1*MtuURq-9Fe3MZM5IZqQgyw.png" alt="Ruby on Rails" width="50" height="50"/></a>
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://static.javatpoint.com/images/javascript/javascript_logo.png" alt="JavaScript" width="50" height="50"/></a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" width="80" height="40"/></a>
+  <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" width="90" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" width="70" height="40"/></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="60" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" width="80" height="40"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" width="80" height="40"/></a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1200px-Created_with_Matplotlib-logo.svg.png?style=for-the-badge&logo=pandas&logoColor=white" alt="matplotlib" width="80" height="40"/></a>
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" alt="selenium" width="80" height="40"/></a>
 </p>
 
-<p float="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="100" alt="Python"/>
-  <img src="https://miro.medium.com/v2/resize:fit:450/1*MtuURq-9Fe3MZM5IZqQgyw.png" width="100" alt="Ruby On Rails" /> 
-  <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" width="100" alt="MySQL" />
-</p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yoga-0731&show_icons=true&locale=en&layout=compact" alt="yoga-github-profile"  width = "400" height = "200"/></p>
+
