@@ -3,7 +3,7 @@
 <p align="center">I'm a Python and RoR programmer, avid book reader and a linguaphile</p>
 <p align="center">🌱 I’m passionate about Python and would like to be a web developer, trying to explore new modules and learn data structures and work on new exciting projects.</p>
 <hr>
-<p align="left"><img src="https://komarev.com/ghpvc/?yoga-0731"></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=yoga-0731&style=flat,color=blue"></p>
 <p align="left"><a href="https://stackoverflow.com/users/20330166/startrek-07"><img src="https://stackoverflow.com/users/flair/20330166.png?theme=dark" width="208" height="58" alt="profile for startrek-07 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for startrek-07 at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a></p>
 
 **Languages and Tools**
@@ -17,7 +17,7 @@
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="60" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" width="80" height="40"/></a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" width="80" height="40"/></a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1200px-Created_with_Matplotlib-logo.svg.png?style=for-the-badge&logo=pandas&logoColor=white" alt="matplotlib" width="80" height="40"/></a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://static.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png"?style=for-the-badge&logo=matplotlib&logoColor=white" alt="matplotlib" width="80" height="40"/></a>
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" alt="selenium" width="80" height="40"/></a>
 </p>
 
