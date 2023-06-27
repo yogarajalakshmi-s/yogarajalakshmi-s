@@ -4,7 +4,7 @@
 <p align="center">🌱 I’m passionate about Python and would like to be a web developer, trying to explore new modules and learn data structures and work on new exciting projects.</p>
 <hr>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=yoga-0731&style=flat,color=blue"></p>
-<p align="left"><a href="https://stackoverflow.com/users/20330166/startrek-07"><img src="https://stackoverflow.com/users/flair/20330166.png?theme=dark" width="208" height="58" alt="profile for startrek-07 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for startrek-07 at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a></p>
+<p align="left"><a href="https://stackoverflow.com/users/20330166/startrek-07"><img src="https://stackoverflow.com/users/flair/20330166.png?theme=clean" width="208" height="58" alt="profile for startrek-07 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for startrek-07 at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a></p>
 
 **Languages and Tools**
 <p align="left"> 
@@ -14,7 +14,7 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" width="80" height="40"/></a>
   <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" width="90" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" width="70" height="40"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="60" height="40"/></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://spin.atomicobject.com/wp-content/uploads/flask.png" alt="flask" width="60" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" width="80" height="40"/></a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" width="80" height="40"/></a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://static.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png"?style=for-the-badge&logo=matplotlib&logoColor=white" alt="matplotlib" width="80" height="40"/></a>
