@@ -2,9 +2,9 @@
 <hr>
 <p align="center">I'm a Python and RoR programmer, avid book reader and a linguaphile</p>
 <p align="center">🌱 I’m passionate about Python and would like to be a web developer, trying to explore new modules and learn data structures and work on new exciting projects.</p>
-<hr>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=yoga-0731&style=flat,color=blue"></p>
-<p align="left"><a href="https://stackoverflow.com/users/20330166/startrek-07"><img src="https://stackoverflow.com/users/flair/20330166.png?theme=clean" width="208" height="58" alt="profile for startrek-07 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for startrek-07 at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a></p>
+<br/>
+**Profile views**
+<p align="left"><img style="padding-left:"20" src="https://komarev.com/ghpvc/?username=yoga-0731&style=flat,color=blue"><a href="https://stackoverflow.com/users/20330166/startrek-07"><img src="https://stackoverflow.com/users/flair/20330166.png?theme=clean" width="208" height="58" alt="profile for startrek-07 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for startrek-07 at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a></p>
 
 **Languages and Tools**
 <p align="left"> 
@@ -20,6 +20,6 @@
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://static.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png"?style=for-the-badge&logo=matplotlib&logoColor=white" alt="matplotlib" width="80" height="40"/></a>
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" alt="selenium" width="80" height="40"/></a>
 </p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yoga-0731&show_icons=true&locale=en&layout=compact" alt="yoga-github-profile"  width = "400" height = "200"/></p>
+<br
+<p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yoga-0731&show_icons=true&locale=en&layout=compact" alt="yoga-github-profile"  width = "400" height = "200"/></p>
 
