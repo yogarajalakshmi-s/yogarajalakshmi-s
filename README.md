@@ -27,7 +27,7 @@
 
 <h5><b>GitHub contributions</b></h5>
 <p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yoga-0731&show_icons=true&locale=en&layout=compact" alt="yoga-github-profile"  width="400" height="200"/>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yoga-0731&show_icons=true&locale=en&layout=compact" alt="yoga-github-profile"  width="600" height="200"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yoga-0731&theme=dark" alt="github-stats" width="400" height="200"/>
 </p>
 
