@@ -2,14 +2,13 @@
 <hr>
 <p align="center">I'm a Python and RoR programmer, avid book reader and a linguaphile</p>
 <p align="center">🌱 I’m passionate about Python and would like to be a web developer, trying to explore new modules and learn data structures and work on new exciting projects.</p>
-<br/>
 
-<h5><b>Profile Views</b></h5>
-<h6 style="align:left">GitHub profile views:
-<p align="left"><img style="padding-left:"20" src="https://komarev.com/ghpvc/?username=yoga-0731&style=flat,color=blue"></p></h6>
-<h6 style="align:left">Stackoverflow profile: <p><a href="https://stackoverflow.com/users/20330166/startrek-07"><img src="https://stackoverflow.com/users/flair/20330166.png?theme=clean" width="208" height="58" alt="profile for startrek-07 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for startrek-07 at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a></p></h6>
+<h4><b>Profile Views</b>
+  <img style="padding-left:"20" src="https://komarev.com/ghpvc/?username=yoga-0731&style=flat,color=blue">
+<!--   <img src="https://stackoverflow.com/users/flair/20330166.png?theme=clean" width="208" height="58" alt="profile for startrek-07 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for startrek-07 at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> -->
+</h4>
 
-<h5><b>Languages and Tools</b></h5>
+<h4><b>Languages and Tools</b></h4>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/></a>
   <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:450/1*MtuURq-9Fe3MZM5IZqQgyw.png" alt="Ruby on Rails" width="50" height="50"/></a>
@@ -25,9 +24,9 @@
 </p>
 <br/>
 
-<h5><b>GitHub contributions</b></h5>
+<h4><b>GitHub contributions</b></h4>
 <p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yoga-0731&show_icons=true&locale=en&layout=compact" alt="yoga-github-profile"  width="600" height="200"/>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yoga-0731&show_icons=true&locale=en&layout=compact" alt="yoga-github-profile"  width="400" height="500"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yoga-0731&theme=dark" alt="github-stats" width="400" height="200"/>
 </p>
 
