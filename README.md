@@ -1,7 +1,7 @@
 ### Hi there, I'm Yoga 👋
 <hr>
- - I'm a Python and RoR programmer, avid book reader and a linguaphile
- - I’m passionate about Python and would like to be a web developer, trying to explore new modules, learn data structures and work on new exciting projects.
+- I'm a Python and RoR programmer, avid reader and a linguaphile.<br/>
+- I’m passionate about Python and would like to be a web developer, trying to explore new modules, learn data structures and work on new exciting projects.
 
 ### Languages and Tools
 <p align="left"> 
