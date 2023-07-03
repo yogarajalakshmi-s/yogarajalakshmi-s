@@ -1,14 +1,15 @@
 ### Hi there, I'm Yoga 👋
+<hr>
 <p>I'm a Python and RoR programmer, avid book reader and a linguaphile</p>
-<p>🌱 I’m passionate about Python and would like to be a web developer, trying to explore new modules and learn data structures and work on new exciting projects.</p>
+<p>🌱 I’m passionate about Python and would like to be a web developer, trying to explore new modules, learn data structures and work on new exciting projects.</p>
 
-<h4><b>Profile Views</b></h4>
+### Profile Views
 <p>
   <img style="padding-left:"20" src="https://komarev.com/ghpvc/?username=yoga-0731&style=flat,color=blue">
 <!--   <img src="https://stackoverflow.com/users/flair/20330166.png?theme=clean" width="208" height="58" alt="profile for startrek-07 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for startrek-07 at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> -->
 </p>
 
-<h4><b>Languages and Tools</b></h4>
+### Languages and Tools
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/></a>
   <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:450/1*MtuURq-9Fe3MZM5IZqQgyw.png" alt="Ruby on Rails" width="50" height="50"/></a>
@@ -26,7 +27,7 @@ width="90" height="40"/></a>
 </p>
 <br/>
 
-<h4><b>GitHub contributions</b></h4>
+### GitHub contributions
 <p>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yoga-0731&show_icons=true&locale=en&layout=compact" alt="yoga-github-profile"  width="400" height="200"/>
 <!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yoga-0731&theme=dark" alt="github-contributions" width="400" height="200" /> -->
