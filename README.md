@@ -1,7 +1,6 @@
 ### Hi there, I'm Yoga 👋
-<hr>
-<p align="center">I'm a Python and RoR programmer, avid book reader and a linguaphile</p>
-<p align="center">🌱 I’m passionate about Python and would like to be a web developer, trying to explore new modules and learn data structures and work on new exciting projects.</p>
+<p>I'm a Python and RoR programmer, avid book reader and a linguaphile</p>
+<p>🌱 I’m passionate about Python and would like to be a web developer, trying to explore new modules and learn data structures and work on new exciting projects.</p>
 
 <h4><b>Profile Views</b></h4>
 <p>
@@ -29,8 +28,8 @@ width="90" height="40"/></a>
 
 <h4><b>GitHub contributions</b></h4>
 <p>
-<!--   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yoga-0731&show_icons=true&locale=en&layout=compact" alt="yoga-github-profile"  width="400" height="200"/> -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yoga-0731&theme=dark" alt="github-contributions" width="400" height="200" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yoga-0731&show_icons=true&locale=en&layout=compact" alt="yoga-github-profile"  width="400" height="200"/>
+<!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yoga-0731&theme=dark" alt="github-contributions" width="400" height="200" /> -->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yoga-0731&theme=dark" alt="github-stats" width="400" height="200"/>
 </p>
 
