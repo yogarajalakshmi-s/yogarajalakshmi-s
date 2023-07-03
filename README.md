@@ -1,7 +1,7 @@
 ### Hi there, I'm Yoga 👋
 <hr>
-<p>I'm a Python and RoR programmer, avid book reader and a linguaphile</p>
-<p>🌱 I’m passionate about Python and would like to be a web developer, trying to explore new modules, learn data structures and work on new exciting projects.</p>
+ - I'm a Python and RoR programmer, avid book reader and a linguaphile
+ - I’m passionate about Python and would like to be a web developer, trying to explore new modules, learn data structures and work on new exciting projects.
 
 ### Languages and Tools
 <p align="left"> 
@@ -28,10 +28,5 @@ width="90" height="40"/></a>
 <!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yoga-0731&theme=dark" alt="github-stats" width="400" height="200"/> -->
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yoga-0731&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="yoga-0731" />
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yoga-0731&layout=compact&langs_count=8&theme=algolia" alt="github-contributions" />
-</p>
-
-### Profile Views
-<p>
-  <img style="padding-left:"20" src="https://komarev.com/ghpvc/?username=yoga-0731&style=flat,color=blue">
 </p>
 
