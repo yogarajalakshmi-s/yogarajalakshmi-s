@@ -19,6 +19,8 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" width="70" height="40"/></a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://spin.atomicobject.com/wp-content/uploads/flask.png" alt="flask" width="60" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" width="80" height="40"/></a>
+  <a href="https://www.sqlalchemy.org/"><img src="https://hakin9.org/wp-content/uploads/2019/08/connect-a-flask-app-to-a-mysql-database-with-sqlalchemy-and-pymysql.jpg" alt="sqlalchemy"
+width="90" height="40"/></a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" width="80" height="40"/></a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://static.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png"?style=for-the-badge&logo=matplotlib&logoColor=white" alt="matplotlib" width="80" height="40"/></a>
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" alt="selenium" width="80" height="40"/></a>
@@ -27,7 +29,7 @@
 
 <h4><b>GitHub contributions</b></h4>
 <p>
-<!--   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yoga-0731&show_icons=true&locale=en&layout=compact" alt="yoga-github-profile"  width="400" height="300"/> -->
+<!--   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yoga-0731&show_icons=true&locale=en&layout=compact" alt="yoga-github-profile"  width="400" height="200"/> -->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yoga-0731&theme=dark" alt="github-contributions" width="400" height="200" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yoga-0731&theme=dark" alt="github-stats" width="400" height="200"/>
 </p>
