@@ -1,7 +1,17 @@
 ### Hi there, I'm Yoga 👋
 <hr>
-- I'm a Python and RoR programmer, avid reader and a linguaphile.<br/>
-- I’m passionate about Python and would like to be a web developer, trying to explore new modules, learn data structures and work on new exciting projects.
+<ul>
+<li>I'm a Python and RoR programmer, avid reader and a linguaphile</li>
+<li>I’m passionate about Python and would like to be a web developer, trying to explore new modules, learn data structures and work on new exciting projects.</li>
+</ul>
+
+### Experience
+<ul>
+  <ul>Freshworks (July 2021 - March 2023)
+    <li>Software Engineer (IC1)</li>
+    <li>Graduate Engineering Trainee</li>
+  </ul>
+</ul>
 
 ### Languages and Tools
 <p align="left"> 
