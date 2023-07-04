@@ -21,12 +21,12 @@ width="90" height="40"/></a>
 </p>
 <br/>
 
-### GitHub contributions
+### GitHub stats
 <p>
 <!--   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yoga-0731&show_icons=true&locale=en&layout=compact" alt="yoga-github-profile"  width="400" height="200"/> -->
 <!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yoga-0731&theme=dark" alt="github-contributions" width="400" height="200" /> -->
-<!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yoga-0731&theme=dark" alt="github-stats" width="400" height="200"/> -->
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yoga-0731&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="yoga-0731" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yoga-0731&layout=compact&langs_count=8&theme=algolia" alt="github-contributions" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yoga-0731&theme=dark" alt="github-stats" height="180em"/>
+<!--   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yoga-0731&layout=compact&langs_count=8&theme=algolia" alt="github-contributions" /> -->
 </p>
 
