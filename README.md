@@ -8,7 +8,7 @@
 ### Experience
 <ul>
   <li>Software Engineer (IC1) in Freshworks (Apr 2022 - March 2023)</li>
-  <li>Graduate Engineering Trainee in  Freshwors (July 2021 - March 2022)</li>
+  <li>Graduate Engineering Trainee in  Freshworks (July 2021 - March 2022)</li>
 </ul>
 
 ### Languages and Tools
