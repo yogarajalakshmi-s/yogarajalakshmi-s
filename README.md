@@ -7,8 +7,13 @@
 
 ### Experience
 <ul>
-  <li>Software Engineer (IC1) in Freshworks (Apr 2022 - March 2023)</li>
-  <li>Graduate Engineering Trainee in  Freshworks (July 2021 - March 2022)</li>
+  <li>Freshworks
+      <ul>
+        <li>Software Engineer IC1 [Apr 2022 - March 2023]</li>
+        <li>Graduate Engineering Trainee [July 2021 - March 2022]</li>
+        <li>Intern [Feb 2021 - June 2021]</li>
+      </ul>
+  </li>
 </ul>
 
 ### Languages and Tools
@@ -37,7 +42,6 @@ width="90" height="40"/></a>
   <li><b>CI/CD:</b> Jenkins</li>
 </ul>
 </p>
-<br/>
 
 ### GitHub stats
 <p>
