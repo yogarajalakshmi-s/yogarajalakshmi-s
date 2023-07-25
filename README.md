@@ -41,6 +41,7 @@ width="90" height="40"/></a>
   <li><b>Automated Testing:</b> Selenium Webdriver</li>
   <li><b>Containerization and Orchestration:</b> Kubernetes, Docker</li>
   <li><b>CI/CD:</b> Jenkins</li>
+  <li><b>Monitoring Tools: </b>New Relic, Grafana</li>
 </ul>
 </p>
 
