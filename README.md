@@ -2,6 +2,7 @@
 <hr>
 <ul>
 <li>I'm a Python, Ruby and JavaScript programmer, avid reader and a linguaphile</li>
+<li>I'm a member of NYC Physics and Astronomy club</li>
 <li>I’m passionate about Python and would like to be a web developer, trying to explore new modules, learn data structures and work on new exciting projects.</li>
 </ul>
 
