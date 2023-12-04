@@ -3,7 +3,7 @@
 <ul>
 <li>I'm a Python, Ruby and JavaScript programmer, voracious reader and a linguaphile</li>
 <li>I'm also a contributor to NASA Citizen science projects.</li>
-<li>I’m passionate about Aerospace Engineering and Python, trying to explore new modules and work on new exciting projects.</li>
+<li>I’m passionate about Python, trying to explore new modules and work on new exciting projects.</li>
 </ul>
 
 ### Experience
