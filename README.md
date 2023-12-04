@@ -12,6 +12,7 @@
       <ul>
         <li>Software Engineer IC1 [Apr 2022 - March 2023]</li>
         <li>Graduate Engineering Trainee [July 2021 - March 2022]</li>
+        <li>Intern [February 2021 - June 2021]</li>
       </ul>
   </li>
 </ul>
