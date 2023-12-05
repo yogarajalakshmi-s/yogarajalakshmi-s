@@ -8,7 +8,7 @@
 
 ### Experience
 <ul>
-  <li>Freshworks
+  <li>Freshworks [Github link: https://github.com/YogarajalakshmiS]
       <ul>
         <li>Software Engineer IC1 [Apr 2022 - March 2023]</li>
         <li>Graduate Engineering Trainee [July 2021 - March 2022]</li>
