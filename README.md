@@ -1,4 +1,4 @@
-### Hi there, I'm <a href="https://yoga-0731.github.io/">Yoga</a> 👋
+### Hi there, I'm <a href="https://yogarajalakshmi-s.github.io/">Yoga</a> 👋
 <hr>
 <ul>
 <li>I'm a Python, Ruby and JavaScript programmer, voracious reader and a linguaphile</li>
