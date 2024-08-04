@@ -36,8 +36,8 @@ width="90" height="40"/></a>
   <li><b>Languages:</b> Python, Ruby, Javascript</li>
   <li><b>Web development frameworks:</b> Flask, Ruby on Rails</li>
   <li><b>Front-end technologies:</b> HTML, CSS, Bootstrap framework</li>
-  <li><b>Database:</b> MySQL, SQLAlchemy, SQLite</li>
-  <li><b>Data Analysis and visualisation:</b> Pandas, NumPy, Matplotlib</li>
+  <li><b>Database:</b> MySQL, Postgres, SQLAlchemy, SQLite</li>
+  <li><b>Data Analysis and visualisation:</b> Pandas, NumPy, Matplotlib, Scikit learn</li>
   <li><b>Interactive computing env: </b>Jupyter Notebook</li>
   <li><b>Automated Testing:</b> Selenium Webdriver</li>
   <li><b>Containerization and Orchestration:</b> Kubernetes, Docker</li>
