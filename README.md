@@ -26,21 +26,13 @@ I’m a software engineer and master’s student at New York University, passion
 - Optimized performance by 35% and implemented responsive design
   
 **Software Engineer** | [Freshworks](https://github.com/YogarajalakshmiS)  
-*Apr 2022 – Mar 2023*  
-- Built a new subscriptions module for SaaS CRM product ‘Freshservice’ using Ruby on Rails, React  
-- Led backend API integration and webhook management for seamless payments  
-- Migrated 70,000+ customer accounts across 14 global sites  
-- Mentored two graduate trainees  
-
-**Graduate Engineering Trainee** | Freshworks  
-*Jul 2021 – Mar 2022*  
-- Improved test coverage from 70% to 85% using RSpec and MiniTest  
-- Resolved 20+ critical bugs and prioritized security issues  
-
-**Software Engineering Intern** | Freshworks  
-*Feb 2021 – Jun 2021*  
-- Delivered a major feature request on-time  
-- Received SPOT award for excellence during internship  
+*Feb 2021 – Mar 2023*  
+- Worked on building the SaaS CRM web application ‘Freshservice’, using Ruby, React, JavaScript, AWS, Docker and Kubernetes.
+- Collaborated with a 15-member team in an Agile environment following SDLC, creating a new subscriptions module, developing REST APIs and handling external webhooks, thereby creating a seamless experience for payments.
+- Executed the seamless migration of 70,000 customer accounts across 14 global sites, to the new billing module.
+- Mentored two graduate engineering trainees, assigned tasks and reviewed the code in their pull requests.
+- Resolved 25+ bugs and prioritized completing cross-site scripting security issues.
+- Improved application’s test coverage from 70% to 85% by writing RSpec and mini test cases for APIs.
 
 ---
 
