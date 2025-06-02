@@ -9,21 +9,24 @@ I’m a software engineer and master’s student at New York University, passion
 ### Quick Overview
 - **Currently:** M.S. in Computer Science @ NYU (Class of 2026)
 - Past: Software Engineer at Freshworks (CRM Team)
-- Tech Enthusiast | AI Explorer | Linguaphile
-- Avid reader | Contributor to NASA Citizen Science projects
+- Avid sci-fi reader | Amatuer sketcher | Contributor to NASA Citizen Science projects
 
 ---
 
 ### Experience
+**Software Engineer Intern** | Metastate Bio Inc.  
+*May 2025 – Aug 2025*  
+- Working on building website for synthetic biotechnology enabling researchers to perform silumations.  
+
 **Software Engineer (Part-Time)** | NYU HPC Lab  
 *Feb 2025 – May 2025*  
-- Developing **Research Connections**, a Node.js/Docker-based app for academic collaboration  
-- Scaled app for higher traffic and automated deployment with CI/CD pipelines  
+- Developing **Research Connections**, a Node.js/Docker-based app for academic collaboration.  
+- Scaled app for higher traffic and automated deployment with CI/CD pipelines.  
 
 **Founding Engineer (Part-Time)** | Stealth AI Startup  
 *Jan 2025 – May 2025*  
-- Frontend development using React for a CPG e-commerce site  
-- Optimized performance by 35% and implemented responsive design
+- Frontend development using React for a CPG e-commerce site.  
+- Optimized performance by 35% and implemented responsive design.  
   
 **Software Engineer** | [Freshworks](https://github.com/YogarajalakshmiS)  
 *Feb 2021 – Mar 2023*  
