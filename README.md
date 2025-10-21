@@ -2,26 +2,35 @@
 
 <hr>
 
-I’m a software engineer and master’s student at New York University, passionate about building scalable web applications, exploring machine learning, distributed systems, and creating products that make lives easier.
+I'm a Software Engineer and Master's student at New York University, passionate about building scalable web applications, exploring big data, machine learning, cloud & distributed systems and creating products that make lives easier.
 
 ---
 
 ### Quick Overview
-- **Currently:** M.S. in Computer Science @ NYU (Class of 2026)
-- Past: Software Engineer at Freshworks (CRM Team)
-- Avid sci-fi reader | Amatuer sketcher | Contributor to NASA Citizen Science projects
+- **Current:** M.S. in Computer Science @ NYU (Class of 2026), Research Assistant @ NYU Stern
+- Past: Software Engineer at Freshworks (Payments Team) | Software Engineer at NYU High Performance Computing Lab
+- Avid sci-fi reader | Contributor to NASA Citizen Science projects
 
 ---
 
 ### Experience
+**Software Engineer Intern** | NYU Stern School of BUsiness 
+*Jun 2025 – Present*  
+- Migrated large-scale datasets from MySQL to DuckDB using R, boosting query performance by 99.8% and accelerating data analysis workflows.
+- Partnered with the DHL Global Connectedness team (Germany) to design interactive analytics dashboards for the [Global Connectedness Tracker Report (Oct 2025)](https://www.dhl.com/global-en/microsites/core/global-connectedness/tracker.html)
+- Built Grafana dashboards for real-time data monitoring, cutting issue detection time by 50% and improving decision-making speed across teams.
+
 **Software Engineer Intern** | Metastate Bio Inc.  
 *May 2025 – Aug 2025*  
-- Working on building website for synthetic biotechnology enabling researchers to perform silumations.  
+- Built Angular-based dashboards visualizing synthetic biotechnology simulations, enabling researchers to track 100+ experiments in
+real-time and improving decision-making speed by 30%.
+- Fixed critical database issues in Java and MySQL, restoring data accuracy for Z+ research projects.
 
-**Software Engineer (Part-Time)** | NYU HPC Lab  
+**Software Engineer (Part-Time)** | NYU IT High Performance Computing Lab  
 *Feb 2025 – May 2025*  
-- Developing **Research Connections**, a Node.js/Docker-based app for academic collaboration.  
-- Scaled app for higher traffic and automated deployment with CI/CD pipelines.  
+- Developed internal research portal for NYU researchers using Node.js, TypeScript and Docker, integrating 10+ backend APIs and
+improving portal usability.
+- Designed CI/CD pipelines in GitLab, reducing deployment time from hours to under 15 minutes.  
 
 **Founding Engineer (Part-Time)** | Stealth AI Startup  
 *Jan 2025 – May 2025*  
@@ -30,11 +39,11 @@ I’m a software engineer and master’s student at New York University, passion
   
 **Software Engineer** | [Freshworks](https://github.com/YogarajalakshmiS)  
 *Feb 2021 – Mar 2023*  
-- Worked on building the SaaS CRM web application ‘Freshservice’, using Ruby, React, JavaScript, AWS, Docker and Kubernetes.
+- Worked on building the SaaS CRM web application 'Freshservice', using Ruby, React, JavaScript, AWS, Docker and Kubernetes.
 - Collaborated with a 15-member team in an Agile environment following SDLC, creating a new subscriptions module, developing REST APIs and handling external webhooks, thereby creating a seamless experience for payments.
 - Executed the seamless migration of 70,000 customer accounts across 14 global sites, to the new billing module.
 - Mentored two graduate engineering trainees, assigned tasks and reviewed the code in their pull requests.
-- Resolved 25+ bugs and prioritized completing cross-site scripting security issues.
+- Resolved 100+ bugs and prioritized completing cross-site scripting security issues.
 - Improved application’s test coverage from 70% to 85% by writing RSpec and mini test cases for APIs.
 
 ---
@@ -42,16 +51,16 @@ I’m a software engineer and master’s student at New York University, passion
 ### Tech Stack
 
 **Languages:**  
-Python, C, Ruby, Java, JavaScript, TypeScript
+Python, Java, C, R, Ruby, JavaScript, TypeScript
 
 **Web Development:**  
-React, Node.js, Django, Flask, FastAPI, REST APIs, HTML/CSS, MySQL, PostgreSQL, MongoDB
+Node.js, Django, Flask, React, Angular, FastAPI, REST APIs, HTML/CSS, MySQL, PostgreSQL, MongoDB, Redis
 
 **Cloud & DevOps:**  
-Docker, Kubernetes, Jenkins CI/CD, Git, Bash, AWS EC2/S3, GCP
+Docker, Kubernetes, Jenkins CI/CD, Git, Bash, AWS (EC2, S3, Lex, Lambda, DynamoDB, OpenSearch), GCP
 
-**Other Tools:**  
-Redis, Grafana, Figma, Jupyter Notebook, Pandas, Matplotlib
+**Tools & Platforms:**  
+Git, GitHub, GitLab, Linux/Unix, Grafana, Figma, Notion, Jupyter Notebook
 
 ---
 
