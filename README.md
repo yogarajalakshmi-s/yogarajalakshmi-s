@@ -14,7 +14,7 @@ I'm a Software Engineer and Master's student at New York University, passionate 
 ---
 
 ### Experience
-**Software Engineer Intern** | NYU Stern School of BUsiness 
+**Research Assistant** | NYU Stern School of Business 
 *Jun 2025 – Present*  
 - Migrated large-scale datasets from MySQL to DuckDB using R, boosting query performance by 99.8% and accelerating data analysis workflows.
 - Partnered with the DHL Global Connectedness team (Germany) to design interactive analytics dashboards for the [Global Connectedness Tracker Report (Oct 2025)](https://www.dhl.com/global-en/microsites/core/global-connectedness/tracker.html)
