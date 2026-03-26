@@ -31,11 +31,6 @@ real-time and improving decision-making speed by 30%.
 - Developed internal research portal for NYU researchers using Node.js, TypeScript and Docker, integrating 10+ backend APIs and
 improving portal usability.
 - Designed CI/CD pipelines in GitLab, reducing deployment time from hours to under 15 minutes.  
-
-**Founding Engineer (Part-Time)** | Stealth AI Startup  
-*Jan 2025 – May 2025*  
-- Frontend development using React for a CPG e-commerce site.  
-- Optimized performance by 35% and implemented responsive design.  
   
 **Software Engineer** | [Freshworks](https://github.com/YogarajalakshmiS)  
 *Feb 2021 – Mar 2023*  
