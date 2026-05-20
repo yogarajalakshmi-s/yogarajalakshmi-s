@@ -2,21 +2,21 @@
 
 <hr>
 
-I'm a Software Engineer and Master's student at New York University, passionate about building scalable web applications, exploring big data, machine learning, cloud & distributed systems and creating products that make lives easier.
+I'm a Software Engineer and Master's in CS graduate from New York University, passionate about building scalable web applications, exploring big data, machine learning, cloud & distributed systems.
 
 ---
 
 ### Quick Overview
 - **Current:** M.S. in Computer Science @ NYU (Class of 2026), Research Assistant @ NYU Stern
 - Past: Software Engineer at Freshworks (Payments Team) | Software Engineer at NYU High Performance Computing Lab
-- Avid sci-fi reader | Contributor to NASA Citizen Science projects
+- Avid sci-fi reader | Open Source Contributor
 
 ---
 
 ### Experience
 **Research Assistant** | NYU Stern School of Business 
-*Jun 2025 – Present*  
-- Migrated large-scale datasets from MySQL to DuckDB using R, boosting query performance by 99.8% and accelerating data analysis workflows.
+*Jun 2025 – May 2026*  
+- Migrated large-scale datasets from MariaDB (OLTP) to DuckDB (OLAP) using R, boosting query performance by 75% and accelerating data analysis workflows.
 - Partnered with the DHL Global Connectedness team (Germany) to design interactive analytics dashboards for the [Global Connectedness Tracker Report (Oct 2025)](https://www.dhl.com/global-en/microsites/core/global-connectedness/tracker.html)
 - Built Grafana dashboards for real-time data monitoring, cutting issue detection time by 50% and improving decision-making speed across teams.
 
