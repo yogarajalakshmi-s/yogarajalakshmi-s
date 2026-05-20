@@ -2,25 +2,57 @@
 
 <hr>
 
-I'm a Software Engineer and Master's in CS graduate from New York University, passionate about building scalable web applications, exploring big data, machine learning, cloud & distributed systems.
+Software Engineer and an Open Source Contributor with a Master's in CS degree from NYU. Expertise in full stack development, distributed systems and AI infrastructure. I've built and scaled cloud-native backend services across global SaaS platforms, real-time data pipelines and AI-powered applications.
 
 ---
 
 ### Quick Overview
-- **Current:** M.S. in Computer Science @ NYU (Class of 2026), Research Assistant @ NYU Stern
-- Past: Software Engineer at Freshworks (Payments Team) | Software Engineer at NYU High Performance Computing Lab
-- Avid sci-fi reader | Open Source Contributor
+- Looking for full time roles starting June 15, 2026!!
+- Open Source Contributor
+- Education
+  - M.S. in Computer Science @ NYU (Class of 2026)
+- Experience:
+  - Research Assistant @ NYU Stern
+  - Software Engineer Intern at Metastate Bio Inc. (Synthetic Biotechnology Simulations)
+  - Software Engineer at NYU High Performance Computing (HPC) Lab
+  - Software Engineer at Freshworks (Payments Team)
+
+---
+
+**Latest Open Source PRs:**   
+🟡 - Open, 🟢 - Merged   
+
+🟡 Canonical/LXD: fixed a CLI filter bug where lxc image list architecture filters didn't match displayed values [#18292](https://github.com/canonical/lxd/pull/18292)
+
+---
+
+### Tech Stack
+
+**Languages:**  
+Python, JavaScript/TypeScript, Java, Ruby, C, R    
+
+**Web Development:**  
+Node.js, Reatcm Django, Flask, Angular, FastAPI, REST APIs, HTML/CSS
+
+**Data & Infra:**    
+MySQL, PostgreSQL, MongoDB, Redis
+
+**Cloud & DevOps:**  
+AWS, Docker, Kubernetes, Jenkins CI/CD
+
+**Tools & Systems:**  
+Git, Bash, Linux, Grafana, Datadog, Figma, Jupyter Notebook
 
 ---
 
 ### Experience
-**Research Assistant** | NYU Stern School of Business 
+**Research Assistant** | NYU Stern School of Business   
 *Jun 2025 – May 2026*  
 - Migrated large-scale datasets from MariaDB (OLTP) to DuckDB (OLAP) using R, boosting query performance by 75% and accelerating data analysis workflows.
 - Partnered with the DHL Global Connectedness team (Germany) to design interactive analytics dashboards for the [Global Connectedness Tracker Report (Oct 2025)](https://www.dhl.com/global-en/microsites/core/global-connectedness/tracker.html)
 - Built Grafana dashboards for real-time data monitoring, cutting issue detection time by 50% and improving decision-making speed across teams.
 
-**Software Engineer Intern** | Metastate Bio Inc.  
+**Software Engineer Intern** | Metastate Bio Inc.   
 *May 2025 – Aug 2025*  
 - Built Angular-based dashboards visualizing synthetic biotechnology simulations, enabling researchers to track 100+ experiments in
 real-time and improving decision-making speed by 30%.
@@ -40,22 +72,6 @@ improving portal usability.
 - Mentored two graduate engineering trainees, assigned tasks and reviewed the code in their pull requests.
 - Resolved 100+ bugs and prioritized completing cross-site scripting security issues.
 - Improved application’s test coverage from 70% to 85% by writing RSpec and mini test cases for APIs.
-
----
-
-### Tech Stack
-
-**Languages:**  
-Python, Java, C, R, Ruby, JavaScript, TypeScript
-
-**Web Development:**  
-Node.js, Django, Flask, React, Angular, FastAPI, REST APIs, HTML/CSS, MySQL, PostgreSQL, MongoDB, Redis
-
-**Cloud & DevOps:**  
-Docker, Kubernetes, Jenkins CI/CD, Git, Bash, AWS (EC2, S3, Lex, Lambda, DynamoDB, OpenSearch), GCP
-
-**Tools & Platforms:**  
-Git, GitHub, GitLab, Linux/Unix, Grafana, Figma, Notion, Jupyter Notebook
 
 ---
 
