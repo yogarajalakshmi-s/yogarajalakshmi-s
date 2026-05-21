@@ -22,7 +22,7 @@ Software Engineer and an Open Source Contributor with a Master's in CS degree fr
 **Latest Open Source PRs:**   
 🟡 - Open, 🟢 - Merged   
 
-🟡 Canonical/LXD: fixed a CLI filter bug where lxc image list architecture filters didn't match displayed values [#18292](https://github.com/canonical/lxd/pull/18292)
+🟢 Canonical/LXD: fixed a CLI filter bug where lxc image list architecture filters didn't match displayed values [#18292](https://github.com/canonical/lxd/pull/18292)
 
 ---
 
