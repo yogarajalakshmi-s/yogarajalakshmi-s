@@ -24,7 +24,7 @@ Software Engineer and an Open Source Contributor with a Master's in CS degree fr
 
 🟢 Canonical/LXD: fixed a CLI filter bug where lxc image list architecture filters didn't match displayed values [#18292](https://github.com/canonical/lxd/pull/18292)    
 🟡 kubeflow/trainer: migrating Python dependency locking from pip-tools to uv, aligning CVE scanning with kubeflow/sdk [#3541](https://github.com/kubeflow/trainer/pull/3541)    
-🟡 kubeflow/sdk: Fixed automated security dependency updater where override entries were silently dropped on repeated runs [#503](https://github.com/kubeflow/sdk/pull/503) -> referencing [#3541](https://github.com/kubeflow/trainer/pull/3541)
+🟢 kubeflow/sdk: Fixed automated security dependency updater where override entries were silently dropped on repeated runs [#503](https://github.com/kubeflow/sdk/pull/503) -> referencing [#3541](https://github.com/kubeflow/trainer/pull/3541)
 
 ---
 
