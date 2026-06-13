@@ -7,15 +7,15 @@ Software Engineer and an Open Source Contributor with a Master's in CS degree fr
 ---
 
 ### Quick Overview
-- Looking for full time roles starting June 15, 2026!!
+- Looking for full time roles starting July 2026!!
 - Open Source Contributor
 - Education
   - M.S. in Computer Science @ NYU (Class of 2026)
 - Experience:
-  - Research Assistant @ NYU Stern
+  - Research Assistant @ NYU Stern (Global Trade Analysis, Collaboration with DHL Germany)
   - Software Engineer Intern at Metastate Bio Inc. (Synthetic Biotechnology Simulations)
-  - Software Engineer at NYU High Performance Computing (HPC) Lab
-  - Software Engineer at Freshworks (Payments Team)
+  - Software Engineer at NYU High Performance Computing (HPC) Lab (DevOps, Full Stack)
+  - Software Engineer at Freshworks (Payments)
 
 ---
 
@@ -27,55 +27,6 @@ Software Engineer and an Open Source Contributor with a Master's in CS degree fr
 🟢 kubeflow/sdk: Fixed automated security dependency updater where override entries were silently dropped on repeated runs [#503](https://github.com/kubeflow/sdk/pull/503) -> referencing [#3541](https://github.com/kubeflow/trainer/pull/3541)    
 🟡 nginx/nginx-gateway-fabric: made least_time HTTP load balancing available in NGINX OSS and not limited to Plus [#5381](https://github.com/nginx/nginx-gateway-fabric/pull/5381)   
 🟡 nginx/documentation: Updated docs to reflect least_time HTTP load balancing availability in NGINX OSS [#2031](https://github.com/nginx/documentation/pull/2031)
-
----
-
-### Tech Stack
-
-**Languages:**  
-Python, JavaScript/TypeScript, Java, Ruby, C, R    
-
-**Web Development:**  
-Node.js, Reatcm Django, Flask, Angular, FastAPI, REST APIs, HTML/CSS
-
-**Data & Infra:**    
-MySQL, PostgreSQL, MongoDB, Redis
-
-**Cloud & DevOps:**  
-AWS, Docker, Kubernetes, Jenkins CI/CD
-
-**Tools & Systems:**  
-Git, Bash, Linux, Grafana, Datadog, Figma, Jupyter Notebook
-
----
-
-### Experience
-**Research Assistant** | NYU Stern School of Business   
-*Jun 2025 – May 2026*  
-- Migrated large-scale datasets from MariaDB (OLTP) to DuckDB (OLAP) using R, boosting query performance by 75% and accelerating data analysis workflows.
-- Partnered with the DHL Global Connectedness team (Germany) to design interactive analytics dashboards for the [Global Connectedness Tracker Report (Oct 2025)](https://www.dhl.com/global-en/microsites/core/global-connectedness/tracker.html)
-- Built Grafana dashboards for real-time data monitoring, cutting issue detection time by 50% and improving decision-making speed across teams.
-
-**Software Engineer Intern** | Metastate Bio Inc.   
-*May 2025 – Aug 2025*  
-- Built Angular-based dashboards visualizing synthetic biotechnology simulations, enabling researchers to track 100+ experiments in
-real-time and improving decision-making speed by 30%.
-- Fixed critical database issues in Java and MySQL, restoring data accuracy for Z+ research projects.
-
-**Software Engineer (Part-Time)** | NYU IT High Performance Computing Lab  
-*Feb 2025 – May 2025*  
-- Developed internal research portal for NYU researchers using Node.js, TypeScript and Docker, integrating 10+ backend APIs and
-improving portal usability.
-- Designed CI/CD pipelines in GitLab, reducing deployment time from hours to under 15 minutes.  
-  
-**Software Engineer** | [Freshworks](https://github.com/YogarajalakshmiS)  
-*Feb 2021 – Mar 2023*  
-- Worked on building the SaaS CRM web application 'Freshservice', using Ruby, React, JavaScript, AWS, Docker and Kubernetes.
-- Collaborated with a 15-member team in an Agile environment following SDLC, creating a new subscriptions module, developing REST APIs and handling external webhooks, thereby creating a seamless experience for payments.
-- Executed the seamless migration of 70,000 customer accounts across 14 global sites, to the new billing module.
-- Mentored two graduate engineering trainees, assigned tasks and reviewed the code in their pull requests.
-- Resolved 100+ bugs and prioritized completing cross-site scripting security issues.
-- Improved application’s test coverage from 70% to 85% by writing RSpec and mini test cases for APIs.
 
 ---
 
