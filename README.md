@@ -26,7 +26,7 @@ Software Engineer and an Open Source Contributor with a Master's in CS degree fr
 🟡 kubeflow/trainer: migrating Python dependency locking from pip-tools to uv, aligning CVE scanning with kubeflow/sdk [#3541](https://github.com/kubeflow/trainer/pull/3541)    
 🟢 kubeflow/sdk: Fixed automated security dependency updater where override entries were silently dropped on repeated runs [#503](https://github.com/kubeflow/sdk/pull/503) -> referencing [#3541](https://github.com/kubeflow/trainer/pull/3541)    
 🟢 nginx/nginx-gateway-fabric: made least_time HTTP load balancing available in NGINX OSS and not limited to Plus [#5381](https://github.com/nginx/nginx-gateway-fabric/pull/5381)   
-🟡 nginx/documentation: Updated docs to reflect least_time HTTP load balancing availability in NGINX OSS [#2031](https://github.com/nginx/documentation/pull/2031)
+🟢 nginx/documentation: Updated docs to reflect least_time HTTP load balancing availability in NGINX OSS [#2031](https://github.com/nginx/documentation/pull/2031)
 
 ---
 
