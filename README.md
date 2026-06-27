@@ -7,7 +7,7 @@ Software Engineer and an Open Source Contributor with a Master's in CS degree fr
 ---
 
 ### Quick Overview
-- Looking for full time roles starting July 2026!!
+- Available to start from July 2026!!
 - Open Source Contributor
 - Education
   - M.S. in Computer Science @ NYU (Class of 2026)
