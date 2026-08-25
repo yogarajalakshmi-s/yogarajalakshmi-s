@@ -29,12 +29,8 @@ Software Engineer and an Open Source Contributor with a Master's in CS degree fr
 
 ---
 
-### GitHub Stats
-
 <!-- Uncomment if you'd like to show streaks or stats -->
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yogarajalakshmi-s&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="yoga-0731" />
-
----
+<!-- <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yogarajalakshmi-#s&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="yoga-0731" /> -->
 
 Always open to collaborating on meaningful open-source projects or new ideas.  
 [Email me](mailto:ys6678@nyu.edu) | [LinkedIn](https://www.linkedin.com/in/yoga-sathyanarayanan/)
